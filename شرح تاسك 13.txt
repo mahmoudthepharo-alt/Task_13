@@ -1,0 +1,22 @@
+اول حاجه اسف ان فايل مش فيديو 
+بس انا دلوقتي مش عارف اسجل من اللاب ( لاب جديد و المايك مش شغال )
+فا هشرح هنا عشان الحق اسلم التاسك 
+How you launched the system.
+الفكره انه كود بايثون في امر بيشغل اال NODES 
+ROS 2 بيفتح الملف traffic_system.launch.py بيلاقي generate_launch_description الي جواها النودز و بيشغل COMMAND كل واحده على طول
+
+What nodes were started.
+fleet_emulator
+traffic_manager
+
+How you changed safety_zone, robot_priority, and robot_position from the
+launch command.
+ده شكل ال command الي بيتكتب 
+ros2 launch fleet_awareness traffic_system.launch.py \
+safety_zone:=بكتب هنا السافتي الي انا عايزه \
+robot1_priority:= اولويه او رانك او ايا كان اسمها لاول روبوت  \
+robot2_priority:=نفس الفكره لتاني روبوت \
+robot1_x:= اكس اول روبوت \
+robot1_y:=واي اول روبوت \
+robot2_x:=اكس تاني روبوت \
+robot2_y:= واي تاني روبوت
