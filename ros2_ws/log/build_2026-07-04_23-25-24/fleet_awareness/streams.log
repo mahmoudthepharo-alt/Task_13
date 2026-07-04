@@ -1,0 +1,18 @@
+[0.573s] Invoking command in '/home/mahmoudemad/ros2_ws/build/fleet_awareness': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mahmoudemad/ros2_ws/build/fleet_awareness/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mahmoudemad/ros2_ws/build/fleet_awareness/build --no-deps symlink_data
+[0.755s] running develop
+[0.850s] running egg_info
+[0.859s] writing fleet_awareness.egg-info/PKG-INFO
+[0.859s] writing dependency_links to fleet_awareness.egg-info/dependency_links.txt
+[0.859s] writing entry points to fleet_awareness.egg-info/entry_points.txt
+[0.859s] writing requirements to fleet_awareness.egg-info/requires.txt
+[0.859s] writing top-level names to fleet_awareness.egg-info/top_level.txt
+[0.878s] reading manifest file 'fleet_awareness.egg-info/SOURCES.txt'
+[0.878s] writing manifest file 'fleet_awareness.egg-info/SOURCES.txt'
+[0.888s] running build_ext
+[0.888s] Creating /home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/python3.12/site-packages/fleet-awareness.egg-link (link to .)
+[0.889s] Installing fleet_emulator script to /home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/fleet_awareness
+[0.889s] Installing traffic_manager script to /home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/fleet_awareness
+[0.889s] 
+[0.889s] Installed /home/mahmoudemad/ros2_ws/build/fleet_awareness
+[0.889s] running symlink_data
+[0.909s] Invoked command in '/home/mahmoudemad/ros2_ws/build/fleet_awareness' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mahmoudemad/ros2_ws/build/fleet_awareness/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mahmoudemad/ros2_ws/build/fleet_awareness/build --no-deps symlink_data

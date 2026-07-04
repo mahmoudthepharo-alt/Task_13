@@ -1,0 +1,25 @@
+running develop
+running egg_info
+creating fleet_awareness.egg-info
+writing fleet_awareness.egg-info/PKG-INFO
+writing dependency_links to fleet_awareness.egg-info/dependency_links.txt
+writing entry points to fleet_awareness.egg-info/entry_points.txt
+writing requirements to fleet_awareness.egg-info/requires.txt
+writing top-level names to fleet_awareness.egg-info/top_level.txt
+writing manifest file 'fleet_awareness.egg-info/SOURCES.txt'
+reading manifest file 'fleet_awareness.egg-info/SOURCES.txt'
+writing manifest file 'fleet_awareness.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/python3.12/site-packages/fleet-awareness.egg-link (link to .)
+Installing fleet_emulator script to /home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/fleet_awareness
+Installing traffic_manager script to /home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/fleet_awareness
+
+Installed /home/mahmoudemad/ros2_ws/build/fleet_awareness
+running symlink_data
+creating /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/ament_index
+creating /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/ament_index/resource_index
+creating /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/ament_index/resource_index/packages
+symbolically linking /home/mahmoudemad/ros2_ws/build/fleet_awareness/resource/fleet_awareness -> /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/ament_index/resource_index/packages
+symbolically linking /home/mahmoudemad/ros2_ws/build/fleet_awareness/package.xml -> /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/fleet_awareness
+creating /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/fleet_awareness/launch
+symbolically linking /home/mahmoudemad/ros2_ws/build/fleet_awareness/launch/traffic_system.launch.py -> /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/fleet_awareness/launch

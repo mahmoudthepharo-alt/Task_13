@@ -1,0 +1,27 @@
+[0.552s] Invoking command in '/home/mahmoudemad/ros2_ws/build/fleet_awareness': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mahmoudemad/ros2_ws/build/fleet_awareness/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mahmoudemad/ros2_ws/build/fleet_awareness/build --no-deps symlink_data
+[0.709s] running develop
+[0.796s] running egg_info
+[0.796s] creating fleet_awareness.egg-info
+[0.805s] writing fleet_awareness.egg-info/PKG-INFO
+[0.805s] writing dependency_links to fleet_awareness.egg-info/dependency_links.txt
+[0.805s] writing entry points to fleet_awareness.egg-info/entry_points.txt
+[0.805s] writing requirements to fleet_awareness.egg-info/requires.txt
+[0.805s] writing top-level names to fleet_awareness.egg-info/top_level.txt
+[0.805s] writing manifest file 'fleet_awareness.egg-info/SOURCES.txt'
+[0.824s] reading manifest file 'fleet_awareness.egg-info/SOURCES.txt'
+[0.824s] writing manifest file 'fleet_awareness.egg-info/SOURCES.txt'
+[0.834s] running build_ext
+[0.834s] Creating /home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/python3.12/site-packages/fleet-awareness.egg-link (link to .)
+[0.835s] Installing fleet_emulator script to /home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/fleet_awareness
+[0.835s] Installing traffic_manager script to /home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/fleet_awareness
+[0.835s] 
+[0.835s] Installed /home/mahmoudemad/ros2_ws/build/fleet_awareness
+[0.835s] running symlink_data
+[0.835s] creating /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/ament_index
+[0.836s] creating /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/ament_index/resource_index
+[0.836s] creating /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/ament_index/resource_index/packages
+[0.836s] symbolically linking /home/mahmoudemad/ros2_ws/build/fleet_awareness/resource/fleet_awareness -> /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/ament_index/resource_index/packages
+[0.836s] symbolically linking /home/mahmoudemad/ros2_ws/build/fleet_awareness/package.xml -> /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/fleet_awareness
+[0.836s] creating /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/fleet_awareness/launch
+[0.836s] symbolically linking /home/mahmoudemad/ros2_ws/build/fleet_awareness/launch/traffic_system.launch.py -> /home/mahmoudemad/ros2_ws/install/fleet_awareness/share/fleet_awareness/launch
+[0.855s] Invoked command in '/home/mahmoudemad/ros2_ws/build/fleet_awareness' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/mahmoudemad/ros2_ws/build/fleet_awareness/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mahmoudemad/ros2_ws/install/fleet_awareness/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mahmoudemad/ros2_ws/build/fleet_awareness/build --no-deps symlink_data

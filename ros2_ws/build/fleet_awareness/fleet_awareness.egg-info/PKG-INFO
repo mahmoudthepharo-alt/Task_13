@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: fleet-awareness
+Version: 0.0.0
+Summary: Traffic System
+Maintainer: mahmoudemad
+Maintainer-email: mahmoudemad@todo.todo
+License: Apache-2.0
+Provides-Extra: test
